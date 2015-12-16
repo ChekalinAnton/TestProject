@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact>
+    <FIO>Петров Петр Петрович</FIO>
+    <Phone>89109101111</Phone>
+  </Contact>
+  <Contact>
+    <FIO>Кирилов Кирил Кирилович</FIO>
+    <Phone>89109101111</Phone>
+  </Contact>
+  <Contact>
+    <FIO>Иванов Иван Иванович</FIO>
+    <Phone>+79534296277</Phone>
+  </Contact>
+</Contacts>
